@@ -1,7 +1,6 @@
 certifi
 chardet
 Click
-cryptg
 aiohttp
 hachoir
 idna
