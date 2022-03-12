@@ -1,4 +1,4 @@
-certifi
+
 chardet
 Click
 aiohttp
